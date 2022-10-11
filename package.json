@@ -1,0 +1,29 @@
+{
+  "name": "webscapingsiteuriromanesti",
+  "version": "1.0.0",
+  "description": "aplicatie pentru preluarea preturilor de pe siteurile romanesti ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/picantultunic/webscapingSiteuriRomanesti.git"
+  },
+  "keywords": [
+    "webscraping",
+    "site",
+    "romania",
+    "romanesti"
+  ],
+  "author": "boros adrian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/picantultunic/webscapingSiteuriRomanesti/issues"
+  },
+  "homepage": "https://github.com/picantultunic/webscapingSiteuriRomanesti#readme",
+  "dependencies": {
+    "puppeteer": "^18.2.1",
+    "string-similarity": "^4.0.4"
+  }
+}
